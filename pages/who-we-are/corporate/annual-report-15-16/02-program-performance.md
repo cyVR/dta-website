@@ -355,68 +355,68 @@ Departmental expenses
 </th>
 </tr>
 <tr>
-<th id="cr4" headers="cr1 cr2 cr3">
+<th id="cr4" headers="cr2 cr3">
 Departmental appropriation<sup>2</sup>
 </th>
-<td headers="cr1 cr2 cr3 cr4 cc1">
+<td headers="cr2 cr3 cr4 cc1">
 30,525
 </td>
-<td headers="cr1 cr2 cr3 cr4 cc2">
+<td headers="cr2 cr3 cr4 cc2">
 28,013
 </td>
-<td headers="cr1 cr2 cr3 cr4 cc3">
+<td headers="cr2 cr3 cr4 cc3">
 2,512
 </td>
 </tr>
 <tr>
-<th id="cr5" headers="cr1 cr2 cr3">
+<th id="cr5" headers="cr2 cr3">
 Expenses not requiring appropriation in the budget year
 </th>
-<td headers="cr1 cr2 cr3 cr5 cc1">
+<td headers="cr2 cr3 cr5 cc1">
 498
 </td>
-<td headers="cr1 cr2 cr3 cr5 cc2">
+<td headers="cr2 cr3 cr5 cc2">
 848
 </td>
-<td headers="cr1 cr2 cr3 cr5 cc3">
+<td headers="cr2 cr3 cr5 cc3">
 350
 </td>
 </tr>
 <tr>
-<th id="cr6" headers="cr1 cr2 cr3">
+<th id="cr6" headers="cr2 cr3">
 <strong>Total for Program 1.1</strong>
 </th>
-<td headers="cr1 cr2 cr3 cr6 cc1">
+<td headers="cr2 cr3 cr6 cc1">
 31,023
 </td>
-<td headers="cr1 cr2 cr3 cr6 cc2">
+<td headers="cr2 cr3 cr6 cc2">
 28,861
 </td>
-<td headers="cr1 cr2 cr3 cr6 cc3">
+<td headers="cr2 cr3 cr6 cc3">
 2,862
 </td>
 </tr>
 <tr>
-<th id="cr7" headers="cr1 cr3">
+<th id="cr7" headers="cr3">
 <strong>Total expenses for Outcome 1</strong>
 </th>
-<td headers="cr1 cr2 cr3 cr7 cc1">
+<td headers="cr2 cr3 cr7 cc1">
 31,023
 </td>
-<td headers="cr1 cr2 cr3 cr7 cc2">
+<td headers="cr2 cr3 cr7 cc2">
 28,861
 </td>
-<td headers="cr1 cr2 cr3 cr7 cc3">
+<td headers="cr2 cr3 cr7 cc3">
 2,862
 </td>
 </tr>
 <tr>
 <td>
 </td>
-<th id="cr9" headers="cr1 cr2 cr8">
+<th id="cr9" headers="cr2 cr8">
 <strong>2014–15</strong>
 </th>
-<th id="cr10" headers="cr1 cr2 cr8">
+<th id="cr10" headers="cr2 cr8">
 <strong>2015–16</strong>
 </th>
 <th>
@@ -426,10 +426,10 @@ Expenses not requiring appropriation in the budget year
 <th id="cr8">
 Average staffing level (number)
 </th>
-<td headers="cr1 cr2 cr8 cr9">
+<td headers="cr2 cr8 cr9">
 0
 </td>
-<td headers="cr1 cr2 cr8 cr10">
+<td headers="cr2 cr8 cr10">
 37
 </td>
 <th>
