@@ -59,15 +59,12 @@ div.horizontal-scroll-table-container {
   width: 100%;
   overflow: auto;
 
-  table {
-    td {
-      min-width: 8em;
-    }
+  @include media($desktop) {
+    overflow: initial;
+  }
 
+  table {
     @include media($tablet) {
-      td {
-        min-width: 10em;
-      }
       th:first-child,
       td:first-child {
         max-width: 20em;
@@ -75,6 +72,10 @@ div.horizontal-scroll-table-container {
       td:first-child[colspan] {
         max-width: initial;
       }
+    }
+    @include media($desktop) {
+      width: 900px;
+      max-width: 100%;
     }
   }
 }

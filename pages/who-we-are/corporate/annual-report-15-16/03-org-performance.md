@@ -124,7 +124,7 @@ A suite of DTO policies, procedures, guidelines and supporting documents is bein
 ### Statistics
 
 At 30 June 2016, the DTO had 71 staff employed under the Public Service Act, as shown in Table 4.
-
+<div class="horizontal-scroll-table-container">
   <table class="content-table" summary="Table 4 Ongoing and non-ongoing active and inactive employees at 30 June 2016">
     <caption>
     <strong>Table 4 </strong>Ongoing and non-ongoing active and inactive employees at 30 June 2016
@@ -329,7 +329,7 @@ At 30 June 2016, the DTO had 71 staff employed under the Public Service Act, as 
       </tr>
     </tbody>
   </table>
-
+</div>
 <div class="notes indented">
     <dl>
         <dt>APS</dt>
